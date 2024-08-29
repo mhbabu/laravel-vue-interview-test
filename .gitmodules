@@ -1,0 +1,6 @@
+[submodule "laravel-api"]
+	path = laravel-api
+	url = https://github.com/mhbabu/laravel-api.git
+[submodule "vue-frontend"]
+	path = vue-frontend
+	url = https://github.com/mhbabu/vue-frontend.git
